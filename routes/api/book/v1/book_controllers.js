@@ -2,7 +2,7 @@
  * Created by PhuongND on 20/04/2016.
  */
 
-var book_models = require('/BookStore/models/api/v1/book_models');
+var book_models = require('/book1/models/api/v1/book_models');
 
 var main_url = "/api/book/v1";
 

@@ -1,9 +1,9 @@
 /**
  * Created by PhuongND on 20/04/2016.
  */
-var database     =   require('/BookStore/conn/connect_database');
+var database     =   require('/book1/conn/connect_database');
 var db = database.connectDatabase();
-var bookScheme     =   require('/BookStore/conn/scheme/book');
+var bookScheme     =   require('/book1/conn/scheme/book');
 
 var bookManagement     =   require('../management');
 
